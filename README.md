@@ -1,3 +1,3 @@
 Football news
 
-Live demo: link 
+Live demo: https://football-news-1.netlify.app
